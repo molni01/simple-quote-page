@@ -1,10 +1,12 @@
-element.style {
-}
+
 .wrapper {
     padding-top: 4rem;
     width: 90%;
     margin: 0 auto;
     text-align: center;
+    font-size: 3.7rem;
+    padding-bottom: 1.3rem;
+    font-family: 'Julius Sans One', sans-serif;
 }
 user agent stylesheet
 div {
@@ -30,22 +32,9 @@ html, body {
     font-size: 100%;
     line-height: 1.5;
 }
-align-content:
-normal
-;
-align-items:
-normal
-;
-align-self:
-auto
-;
-alignment-baseline:
-auto
-;
-all:
-;
-animation-delay:
-0s
-;
-animation-direction:
-normal
+
+.author {font-weight: bold;
+}
+
+.author {font-size:30%;
+}
