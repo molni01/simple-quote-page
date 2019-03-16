@@ -38,3 +38,19 @@ html, body {
 
 .author {font-size:30%;
 }
+
+nav {
+    background-color: hsla(100,0%,0%,.5);
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img {height: auto;
+  width: 3%;}
+
+nav a {
+    padding: 2rem;
+}
